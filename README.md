@@ -1,5 +1,5 @@
 # Airbnb Analysis
-**Repository Name:** Airbnb Data Analysis with MongoDB Atlas
+Airbnb Data Analysis with MongoDB Atlas
 
 **Description:**
 This GitHub repository hosts a comprehensive project focused on the analysis of Airbnb data using MongoDB Atlas, a cloud-based database platform. The project is designed to provide a detailed and data-driven understanding of various aspects of Airbnb listings, with a particular emphasis on pricing dynamics, availability patterns, and location-based trends.
