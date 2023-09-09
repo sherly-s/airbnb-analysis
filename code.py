@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep  2 15:45:07 2023
 
-@author: DELL
-"""
 
 from PIL import Image
 import pandas as pd
